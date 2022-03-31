@@ -13,3 +13,5 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+Coded according to https://www.learnweb3.io/tracks/junior/local-hardhat-node 
